@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatorX</string>
+    <string name="enter_first_value">ENTER FIRST VALUE</string>
+    <string name="plus">+</string>
+    <string name="substract">-</string>
+    <string name="enter_secound_value">ENTER SECOUND VALUE</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
