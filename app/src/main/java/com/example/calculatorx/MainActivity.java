@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         multiply= findViewById(R.id.btnMultiply);
         divide= findViewById(R.id.btnDivide);
 
-        add.setOnClickListener(new View.OnClickListener() {
+        add.setOnClickListener( new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 int firstView , secoundView , ans;
